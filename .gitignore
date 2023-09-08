@@ -4,3 +4,9 @@
 **/*~
 **/.*
 **/*pyc
+*.tar.gz
+*.ffdata
+*.ffindex
+UniRef30_2020_06/
+csblast-2.2.3/
+pdb100_2021Mar03/
